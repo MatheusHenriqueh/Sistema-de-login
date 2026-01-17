@@ -2,7 +2,7 @@
 ### Autor: Matheus Henrique
 📅 Data: 17/10/2025  
 
----
+--- 
 
 ## 🧠 Sobre o projeto
 Este projeto foi criado com o objetivo de **praticar lógica de programação** em Python, especialmente:
