@@ -1,5 +1,5 @@
 #Sistemde de Login
-#Autor: Matheus Ruivo
+#Autor: Matheus Henrique
 #Data: 17/10/25
 
 entrada = input("Você quer fazer login ou cadastro?")
@@ -29,4 +29,5 @@ elif entrada == 'cadastro':
     else:
         print("Você é de menor!")
 else:
+
     print("Digite cadastro ou login.")
