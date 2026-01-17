@@ -1,5 +1,5 @@
 # 🔐 Sistema de Login em Python
-### Autor: Matheus Ruivo  
+### Autor: Matheus Henrique
 📅 Data: 17/10/2025  
 
 ---
